@@ -1,4 +1,5 @@
-- Hi, I’m @Cristian-Emil
+- Hi, I’m Cristian-Emil
+- I am a manual tester who use Postman and Jira. I want to evolve towards automatic testing (in time).
 - I’m interested in learn Java under Selenium , Maven and TestNG; Python under Selenium
 - I’m currently focus on learning Java and Pyuthon with Selenium
 - I’m looking to collaborate for training in Java-Selenium ( automation testing for different web page, sites, files, etc. )
