@@ -1,3 +1,4 @@
+E.N.
 - Hi, I’m Cristian-Emil
 - I am a manual tester who use Postman and Jira. I want to evolve towards automatic testing.
 - I’m interested in learn Java under Selenium , Maven and TestNG and Python under Selenium
@@ -14,3 +15,7 @@ Cristian-Emil/Cristian-Emil is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 !
+
+R.O.
+- Buna, eu sunt Cristian-Emil
+- Sunt Manual tester care utilizeaza Postman si Jira. Vreau sa evoluez catre testarea automata.
