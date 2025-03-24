@@ -5,7 +5,7 @@ E.N.
 - I’m currently focus on learning Java - Selenium & Cucucmber, Python - Selenium 
 - I’m looking to collaborate for training in Java-Selenium ( automation testing for different web page, sites, files, etc. ) & Cucumber
 - I’m looking to collaborate for training in Python-Selenium ( automation testing for different web page, sites, files, etc. )   
-- How to contact - Send me a message on
+- For contact - Send me a message on
 - - email: cristianzidarescu@hotmail.com ;
 - - linkedin : https://www.linkedin.com/in/cristian-emil-zidarescu-a463814b/
 
@@ -18,4 +18,11 @@ You can click the Preview link to take a look at your changes.
 
 R.O.
 - Buna, eu sunt Cristian-Emil
-- Sunt Manual tester care utilizeaza Postman si Jira. Vreau sa evoluez catre testarea automata.
+- Sunt Manual tester care utilizeaza Postman si Jira. Vreau sa evoluez catre testarea automată.
+- Sunt interesat să învăț Java cu Selenium, Maven, TestNG, Cucumber și, în același timp, Python cu Selenium (ambele pentru testarea automată)
+- În prezent mă concentrez pe a învăța Java - Selenium & Cucucmber, Python - Selenium
+- Caut sa colaborez pentru training in Java-Selenium (testare de automatizare pentru diferite pagini web, site-uri, fisiere etc.) & Cucumber
+- Caut sa colaborez pentru training in Python-Selenium (testare de automatizare pentru diferite pagini web, site-uri, fisiere etc.)
+- Pt contact - trimite-mi un mesaj pe
+- - email: cristianzidarescu@hotmail.com ;
+- - linkedin : https://www.linkedin.com/in/cristian-emil-zidarescu-a463814b/
