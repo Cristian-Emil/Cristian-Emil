@@ -26,4 +26,5 @@ R.O.
 - Pt contact - trimite-mi un mesaj pe
 - email: cristianzidarescu@hotmail.com ;
 - linkedin : https://www.linkedin.com/in/cristian-emil-zidarescu-a463814b/
+  
 !
