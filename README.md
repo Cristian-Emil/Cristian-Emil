@@ -5,7 +5,7 @@ E.N.
 - I’m currently focus on learning Java - Selenium & Cucucmber, Python - Selenium 
 - I’m looking to collaborate for training in Java-Selenium ( automation testing for different web page, sites, files, etc. ) & Cucumber
 - I’m looking to collaborate for training in Python-Selenium ( automation testing for different web page, sites, files, etc. )   
-- For contact - Send me a message on
+- For contact - Send a message to
 - email: cristianzidarescu@hotmail.com ;
 - linkedin : https://www.linkedin.com/in/cristian-emil-zidarescu-a463814b/
 
@@ -23,7 +23,7 @@ R.O.
 - În prezent mă concentrez pe a învăța Java - Selenium & Cucucmber, Python - Selenium
 - Caut sa colaborez pentru training in Java-Selenium (testare de automatizare pentru diferite pagini web, site-uri, fisiere etc.) & Cucumber
 - Caut sa colaborez pentru training in Python-Selenium (testare de automatizare pentru diferite pagini web, site-uri, fisiere etc.)
-- Pt contact - trimite-mi un mesaj pe
+- Pt contact - trimiteti mesaj la:
 - email: cristianzidarescu@hotmail.com ;
 - linkedin : https://www.linkedin.com/in/cristian-emil-zidarescu-a463814b/
   
