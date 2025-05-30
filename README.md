@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 R.O.
 - Buna, eu sunt Cristian-Emil
-- Sunt tester manual de apgini web si ecommerce care utilizeaza Postman si Jira. Vreau sa evoluez catre testarea automată.
+- Sunt tester manual pt pagini web si ecommerce care utilizeaza Postman si Jira. Vreau sa evoluez catre testarea automată.
 - Sunt interesat să învăț Java cu Selenium, Maven, TestNG, Cucumber și, în același timp, Python cu Selenium (ambele pentru testarea automată)
 - În prezent mă concentrez pe a învăța Java - Selenium & Cucucmber, Python - Selenium
 - Caut sa colaborez pentru training in Java-Selenium (testare de automatizare pentru diferite pagini web, site-uri, fisiere etc.) & Cucumber
